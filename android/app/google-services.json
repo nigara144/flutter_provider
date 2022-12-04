@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809903242727",
+    "project_id": "pumbainterview",
+    "storage_bucket": "pumbainterview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809903242727:android:8355a00c75937a59e71142",
+        "android_client_info": {
+          "package_name": "com.example.interview_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809903242727-4guibo0pq4hir5ftcfe7dff78eqlh8gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLp7G0qifJJgmAnoAdCAZg7GIB96Icyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809903242727-4guibo0pq4hir5ftcfe7dff78eqlh8gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
